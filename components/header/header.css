@@ -1,0 +1,24 @@
+.uniHeader {
+    background-image:url("https://media.giphy.com/media/kEKcOWl8RMLde/giphy.gif");
+    background-size: initial;
+    background-repeat: repeat;
+    text-size: 20px;
+    text-color: red;
+    height: 300px;
+    width: 100%;
+}
+
+.headerExample {
+ background-image:url("https://media.giphy.com/media/kEKcOWl8RMLde/giphy.gif");
+    background-size: initial;
+    background-repeat: repeat;
+    text-size: 20px;
+    text-color: red;
+    height: 300px;
+    width: 100%;
+}
+
+
+.headerStates {
+	      background-image: red;
+}
